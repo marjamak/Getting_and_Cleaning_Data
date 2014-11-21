@@ -1,4 +1,4 @@
-# Jouni Marjamaki 21.11.2014
+#
 # Course Project : Getting and Cleaning Data 
 #
 
